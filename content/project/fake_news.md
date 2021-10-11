@@ -1,9 +1,8 @@
 ---
-title: Designing Protective Measures against Malware Attacks
+title: Characterizing Fake News
 summary: |2-
-  - Devised a gradient based, greedy attack strategies to modify malicious applications to fool detection systems
-  - Designed a novel defensive strategy to protect detection systems from malware attacks
-  - Validated the strategies for twelve classification algorithms against 50,000 android applications
+  - Proposed Fake News detection model using extracted syntactic, semantic, temporal features
+  - Evaluated the hypothesis against four benchmark datasets of varying article lengths
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

@@ -1,13 +1,15 @@
 ---
 title: Adithya Samavedhi
-role: Software Developer at Goldman Sachs
-avatar_filename: yearbook_close.jpeg
+role: Software Developer 
+# avatar_filename: yearbook_close.jpeg
+avatar_filename: yearbook_close.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Natural Language Processing
   - Artificial Intelligence
   - Machine Learning
+  - Information Retreival
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,19 +27,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
+  - name: Goldman Sachs
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.E. Computer Science
+      institution: Birla Institute of Technology & Science, Goa Campus
+      year: 2021
+    - course: Telangana State Board
+      institution: FIITJEE, Saifabad
+      year: 2017
+    - course: CBSE
+      institution: CHIREC International
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true

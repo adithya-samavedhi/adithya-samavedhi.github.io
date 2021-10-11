@@ -1,9 +1,7 @@
 ---
-title: Designing Protective Measures against Malware Attacks
+title: Detection of  Malaria from Segmented Human Cell Images
 summary: |2-
-  - Devised a gradient based, greedy attack strategies to modify malicious applications to fool detection systems
-  - Designed a novel defensive strategy to protect detection systems from malware attacks
-  - Validated the strategies for twelve classification algorithms against 50,000 android applications
+  - Built detection models using convolutional neural networks in Pytorch implementing a custom architecture and transfer learning from state-of-art models
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

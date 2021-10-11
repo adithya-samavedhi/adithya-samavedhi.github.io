@@ -7,6 +7,7 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 view: 2
+active : false
 
 # Optional header image (relative to `static/media/` folder).
 header:

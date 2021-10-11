@@ -1,9 +1,8 @@
 ---
-title: Designing Protective Measures against Malware Attacks
+title: Empirical Analysis of Student Feedback (Confidential Project)
 summary: |2-
-  - Devised a gradient based, greedy attack strategies to modify malicious applications to fool detection systems
-  - Designed a novel defensive strategy to protect detection systems from malware attacks
-  - Validated the strategies for twelve classification algorithms against 50,000 android applications
+  - Pre-processing raw feedback data collected across 10 streams, 200+ courses, 100+ faculty
+  - Implementing sentiment analysis models, clustering objective responses, deriving inferences through knowledge graphs
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -16,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
