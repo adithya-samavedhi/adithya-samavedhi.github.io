@@ -4,7 +4,9 @@ summary: |2-
   - Pre-processing raw feedback data collected across 10 streams, 200+ courses, 100+ faculty
   - Implementing sentiment analysis models, clustering objective responses, deriving inferences through knowledge graphs
 tags:
-- Deep Learning
+- Data Analysis
+- Natural Lnaguage Preprocessing
+- Unsupervised Machine Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

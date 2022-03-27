@@ -3,11 +3,11 @@
 
 title: "Profiling Fake News: Learning the Semantics and Characterisation of Misinformation"
 authors: [Swati Agarwal, Adithya Samavedhi]
-date: 2021-10-11T10:16:14+05:30
+date: 2022-10-11T10:16:14+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-11T10:16:14+05:30
+publishDate: 2022-10-11T10:16:14+05:30
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "17th International Conference on Advanced Data Mining and Applications"
-publication_short: ""
+publication_short: "ADMA'22"
 
 abstract: ""
 
@@ -36,10 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: 
 url_code:
 url_dataset:
-url_poster:
+url_poster: 
 url_project:
 url_slides:
 url_source:

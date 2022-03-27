@@ -1,7 +1,6 @@
 ---
-title: Detection of  Malaria from Segmented Human Cell Images
+title: Supervised Contrastive Learning for Interpretable Long Document Comparison
 summary: |2-
-  - Built detection models using convolutional neural networks in Pytorch implementing a custom architecture and transfer learning from state-of-art models
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -9,9 +8,9 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by rawpixel on Unsplash
+#   focal_point: Smart
 
 links:
 # - icon: twitter

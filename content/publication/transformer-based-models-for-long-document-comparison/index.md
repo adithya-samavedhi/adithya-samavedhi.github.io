@@ -2,7 +2,7 @@
 title: "Transformer-based Models for Long Document Comparison: Challenges and
   Empirical Analysis"
 publication_types:
-  - "3"
+  - "0"
 authors:
   - Akshita Jha
   - Adithya Samavedhi
@@ -14,5 +14,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-10-03T20:22:22.088Z
+date: 2022-10-03T20:22:22.088Z
 ---
