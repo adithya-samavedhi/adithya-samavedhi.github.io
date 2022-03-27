@@ -49,7 +49,7 @@ experience:
   - title: AI Intern
     company: Couture AI
     company_url: ''
-    company_logo: couture
+    company_logo: coutureai
     location: Remote
     date_start: '2020-11-06'
     date_end: '2020-12-31'
